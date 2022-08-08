@@ -28,5 +28,15 @@
     background-position: 50%;
     background-attachment: fixed;
 }
+.main-4{
+    height: 800px;
+    width: 1890px;
+    color: white;
+    background-image: url('./img/img4.jpg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: 50%;
+    background-attachment: fixed;
+}
 
 
